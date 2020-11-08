@@ -1,0 +1,6 @@
+D:\CRUD\CRUD\CRUD.DB\bin\Debug\CRUD.DB.dacpac
+D:\CRUD\CRUD\CRUD.DB\bin\Debug\CRUD.DB.dll
+D:\CRUD\CRUD\CRUD.DB\bin\Debug\CRUD.DB.pdb
+D:\CRUD\CRUD\CRUD.DB\obj\Debug\CRUD.DB.sqlprojAssemblyReference.cache
+D:\CRUD\CRUD\CRUD.DB\obj\Debug\CRUD.DB.dll
+D:\CRUD\CRUD\CRUD.DB\obj\Debug\CRUD.DB.pdb

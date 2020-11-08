@@ -1,0 +1,16 @@
+D:\CRUD\CRUD\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+D:\CRUD\CRUD\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+D:\CRUD\CRUD\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+D:\CRUD\CRUD\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+D:\CRUD\CRUD\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+D:\CRUD\CRUD\Repository\bin\Debug\netcoreapp2.2\Repository.runtimeconfig.json
+D:\CRUD\CRUD\Repository\bin\Debug\netcoreapp2.2\Repository.runtimeconfig.dev.json
+D:\CRUD\CRUD\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+D:\CRUD\CRUD\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+D:\CRUD\CRUD\Repository\bin\Debug\netcoreapp2.2\CRUD.Core.dll
+D:\CRUD\CRUD\Repository\bin\Debug\netcoreapp2.2\Entity.dll
+D:\CRUD\CRUD\Repository\bin\Debug\netcoreapp2.2\Entity.pdb
+D:\CRUD\CRUD\Repository\bin\Debug\netcoreapp2.2\CRUD.Core.pdb
+D:\CRUD\CRUD\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+D:\CRUD\CRUD\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+D:\CRUD\CRUD\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
